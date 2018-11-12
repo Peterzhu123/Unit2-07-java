@@ -1,5 +1,5 @@
 // Create by : Peter zhu
-// Create on : May
+// Create on : Oct
 // This is Truck class
 
 public class Truck extends Vehicle {
